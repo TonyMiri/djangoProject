@@ -1,3 +1,3 @@
 # djangoProject
-Playing with django
+Playing with django. \n
 Might turn into something idk
